@@ -26,6 +26,7 @@ Ex-financial auditor (Kazatomprom) turned data analyst. I work with messy real-w
 | [Nexus Payments - Fraud Detection](https://github.com/nurbolsultanov/nexus-fraud-detection) | Python · SQL · Tableau | Transaction fraud pattern analysis (50K transactions). [Live](https://public.tableau.com/app/profile/nurbol.sultanov/viz/NexusPaymentsFraudDetectionDashboard/NexusFraudDetection) |
 | [SQL Case Studies](https://github.com/nurbolsultanov/sql-case-studies) | PostgreSQL | Advanced SQL patterns - cohort retention, Top N, running totals, gap-and-island, LTV |
 | [Credit Default Prediction](https://github.com/nurbolsultanov/credit-default-prediction) | Python · scikit-learn | ML model predicting loan default — Logistic Regression vs Random Forest vs Gradient Boosting (AUC 0.69) |
+| [A/B Testing Case Study](https://github.com/nurbolsultanov/ab-testing-case-study) | Python · SciPy · statsmodels | Checkout conversion rate A/B test — +22% uplift, p=0.0001, power analysis |
 | [Clarte Commerce - Customer Segmentation](https://github.com/nurbolsultanov/clarte-commerce-customer-analysis) | Python · SQL | RFM segmentation, churn, cohort retention (92K transactions, 12K customers) |
 | [Volkovgeology - Drilling OPEX](https://github.com/nurbolsultanov/volkovgeology-opex-analysis) | Python · SQL · Power BI | Operational cost analysis across 12 deposits in Kazakhstan |
 | [Meridian Logistics - Supply Chain](https://github.com/nurbolsultanov/meridian-logistics-delay-analysis) | Python · SQL · Power BI | Shipment delay root cause analysis (8K shipments, 15 ports) |
