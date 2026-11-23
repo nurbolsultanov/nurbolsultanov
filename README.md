@@ -1,8 +1,8 @@
 # Nurbol Sultanov
 
-**Tesla | Autopilot & FSD Division — Los Angeles, CA**
+**Data Analyst moving into ML & Robotics - Los Angeles, CA**
 
-Part of Tesla's Autopilot team, focused on AI safety for Full Self-Driving. Background in data analytics and BI — 4+ years building consolidated reporting, financial audits, and applied ML projects.
+4+ years in data analytics and BI: consolidated reporting, financial audits, and applied ML projects. Most recently worked in Tesla's Autopilot/FSD division as a Vehicle Operator, collecting real-world driving data for Full Self-Driving.
 
 Now studying Computer Science at Santa Monica College, targeting UC Berkeley. Building toward ML/DL engineering and robotics.
 
@@ -39,28 +39,28 @@ Time-series forecasting on Rossmann Store Sales (1M rows, 1,115 stores). LightGB
 Stack: Prophet, SARIMA, LightGBM, statsmodels, Plotly
 
 **Live Tableau Dashboards**
-- [Credit Risk Portfolio](https://public.tableau.com/app/profile/nurbol.sultanov/viz/VantageCreditRiskPortfolioPerformance/CreditRiskPortfolio) — 5K loans, $91.7M, Grade F 30x default rate
-- [Payment Fraud Detection](https://public.tableau.com/app/profile/nurbol.sultanov/viz/NexusPaymentFraudDetection/PaymentFraudDetection) — 50K transactions, ATM 2x POS fraud rate
-- [Insurance Claims Analysis](https://public.tableau.com/app/profile/nurbol.sultanov/viz/MeridianHealthInsuranceClaimsAnalysis/InsuranceClaimsAnalysis) — 15K claims, $78.4M, Mental Health 22% denial rate
+- [Credit Risk Portfolio](https://public.tableau.com/app/profile/nurbol.sultanov/viz/VantageCreditRiskPortfolioPerformance/CreditRiskPortfolio) - 5K loans, $91.7M, Grade F 30x default rate
+- [Payment Fraud Detection](https://public.tableau.com/app/profile/nurbol.sultanov/viz/NexusPaymentFraudDetection/PaymentFraudDetection) - 50K transactions, ATM 2x POS fraud rate
+- [Insurance Claims Analysis](https://public.tableau.com/app/profile/nurbol.sultanov/viz/MeridianHealthInsuranceClaimsAnalysis/InsuranceClaimsAnalysis) - 15K claims, $78.4M, Mental Health 22% denial rate
 
 ---
 
 ## Background
 
-- **2026–present** — AI Safety Data Collection, Tesla (Autopilot/FSD Division)
-- **2022–2026** — Data Analyst, Damir Bary Inc.
-- **2020–2021** — Freelance Data Analyst
-- **2020** — Contract Data Analyst, Volkovgeology JSC (Kazatomprom subsidiary)
-- **2015–2019** — Internal Auditor, NAC Kazatomprom (LSE-listed uranium producer)
+- **2026** - Vehicle Operator, Tesla (Autopilot/FSD Division)
+- **2022-2026** - Data Analyst, Damir Bary Inc.
+- **2020-2021** - Freelance Data Analyst
+- **2020** - Contract Data Analyst, Volkovgeology JSC (Kazatomprom subsidiary)
+- **2015-2019** - Internal Auditor, NAC Kazatomprom (LSE-listed uranium producer)
 
 ---
 
 ## Education & Certifications
 
-- Santa Monica College — Computer Science (transferring to UC Berkeley, target Fall 2028)
-- Kaggle — Pandas, Advanced SQL (2026)
-- Salesforce — Agentblazer Champion 2026, Agentforce Builder, 25+ Trailhead modules
-- Google Data Analytics — Foundations, Ask Questions (2026)
+- Santa Monica College - Computer Science (transferring to UC Berkeley, target Fall 2027)
+- Kaggle - Pandas, Advanced SQL (2026)
+- Salesforce - Agentblazer Champion 2026, Agentforce Builder, 25+ Trailhead modules
+- Google Data Analytics - Foundations, Ask Questions (2026)
 
 ---
 
