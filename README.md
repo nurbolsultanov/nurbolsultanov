@@ -57,7 +57,7 @@ Stack: Prophet, SARIMA, LightGBM, statsmodels, Plotly
 
 ## Education & Certifications
 
-- Santa Monica College - Computer Science (transferring to UC Berkeley, target Fall 2027)
+- Santa Monica College - Computer Science (transferring to UC Berkeley, target Fall 2028)
 - Kaggle - Pandas, Advanced SQL (2026)
 - Salesforce - Agentblazer Champion 2026, Agentforce Builder, 25+ Trailhead modules
 - Google Data Analytics - Foundations, Ask Questions (2026)
